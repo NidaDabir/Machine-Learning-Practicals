@@ -133,11 +133,17 @@ Random-Forest.ipynb
 🎯 Skills Demonstrated
 
 Machine Learning
+
 Data Analysis
+
 Model Training
+
 Model Evaluation
+
 Classification
+
 Regression
+
 Clustering
 
 💼 Career Objective
