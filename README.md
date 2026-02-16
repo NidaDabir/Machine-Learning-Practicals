@@ -2,6 +2,7 @@
 👩‍💻 Author
 
 Nida Dabir
+
 Data Science Student | Python | Power BI | Tableau | Machine Learning
 
 📌 Project Overview
@@ -29,7 +30,9 @@ Model evaluation
 Performance metrics
 
 🤖 Algorithms Implemented
-📊 Regression
+
+📊 Regression 
+
 Linear Regression
 
 Predict continuous values
@@ -41,6 +44,7 @@ Mean Squared Error (MSE)
 R² Score
 
 📊 Classification
+
 Logistic Regression
 
 Binary classification
@@ -74,6 +78,7 @@ Improves weak learners
 High performance classification
 
 📊 Clustering
+
 KMeans Clustering
 
 Unsupervised learning
